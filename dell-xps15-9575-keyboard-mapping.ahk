@@ -1,8 +1,8 @@
-﻿;Ctrl+Alt+Left
+﻿;Alt+Left
 ;Move one word left
 <!Left::Send {CtrlDown}{Left}{CtrlUp}
 
-;Ctrl+Alt+Right
+;Alt+Right
 ;Move one word right
 <!Right::Send {CtrlDown}{Right}{CtrlUp}
 
